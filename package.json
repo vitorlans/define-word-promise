@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "name": "define-word",
+        "raw": "define-word",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "c:\\Users\\vitor.santos\\Documents\\sonhar"
+    ]
+  ],
+  "_from": "define-word@latest",
+  "_id": "define-word@1.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/define-word",
+  "_nodeVersion": "4.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/define-word-1.0.5.tgz_1464119237298_0.43253780086524785"
+  },
+  "_npmUser": {
+    "email": "tiger@ball890.com",
+    "name": "songoku890"
+  },
+  "_npmVersion": "2.14.20",
+  "_phantomChildren": {
+    "boolbase": "1.0.0",
+    "dom-serializer": "0.1.0",
+    "domelementtype": "1.3.0",
+    "entities": "1.1.1",
+    "htmlparser2": "3.8.3",
+    "jsdom": "7.2.2",
+    "lodash": "4.13.1",
+    "nth-check": "1.0.1"
+  },
+  "_requested": {
+    "name": "define-word",
+    "raw": "define-word",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/define-word/-/define-word-1.0.5.tgz",
+  "_shasum": "6daebf994c2fc22951eee114f1dcde1f3a286eb9",
+  "_shrinkwrap": null,
+  "_spec": "define-word",
+  "_where": "c:\\Users\\vitor.santos\\Documents\\sonhar",
+  "author": {
+    "name": "Tigerball890"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "colors": "^1.1.2",
+    "deasync": "^0.1.6",
+    "readline-sync": "^1.4.2",
+    "request": "^2.72.0"
+  },
+  "description": "Grabs word definition from Dictionary.com or synonyms from Thesaurus.com and parses into an object",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6daebf994c2fc22951eee114f1dcde1f3a286eb9",
+    "tarball": "https://registry.npmjs.org/define-word/-/define-word-1.0.5.tgz"
+  },
+  "latestUpdate": "Added new feature: Grabbing synonyms from Thesaurus.com",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "tiger@ball890.com",
+      "name": "songoku890"
+    }
+  ],
+  "name": "define-word",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo Testing && node index.js"
+  },
+  "version": "1.0.5"
+}
