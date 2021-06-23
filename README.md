@@ -1,10 +1,10 @@
 # Define\-Word-Promise
-## An easy\-to\-use defintions and synonyms finder
+## An easy\-to\-use defintion and synonym finder
 
 Based in https://www.npmjs.com/package/define-word 
 
 ### API
-This API is very small. There are only two function and they is synchonous.
+This API is very small. There are only two function and they are synchronous.
 
 #### Define
 ```>> require("define-word").define("word")```
