@@ -1,5 +1,5 @@
 # Define\-Word-Promise
-## An easy\-to\-use defintions and synonyms finder
+## An easy\-to\-use defintion and synonym finder
 
 Based in https://www.npmjs.com/package/define-word 
 
