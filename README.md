@@ -4,7 +4,7 @@
 Based in https://www.npmjs.com/package/define-word 
 
 ### API
-This API is very small. There are only two function and they is synchonous.
+This API is very small. There are only two function and they are synchronous.
 
 #### Define
 ```>> require("define-word").define("word")```
